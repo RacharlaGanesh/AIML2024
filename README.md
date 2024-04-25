@@ -10,3 +10,5 @@
 
 
 #ASSIGNMENT6:https://github.com/RacharlaGanesh/AIML2024/blob/main/2203A51823_ASS_(6.....)%20(1).ipynb
+
+#ASSIGNMENT7:https://github.com/RacharlaGanesh/AIML2024/blob/main/2203A51823%20assignment_7.ipynb
